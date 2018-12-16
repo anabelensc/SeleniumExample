@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tests>
+  <valueofsearch word="selenium" page="http://www.google.com"></valueofsearch>
+  <valueofsearchwrongressult word="selenium" wordresult="fsdfsdf" page="http://www.google.com"></valueofsearchwrongressult>
+</tests>
+
